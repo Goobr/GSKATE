@@ -1,4 +1,3 @@
-##UNDER CONSTRUCTION##
 
 This project is deprecated and probably wont live again
 
