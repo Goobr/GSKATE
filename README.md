@@ -1,4 +1,7 @@
 ##UNDER CONSTRUCTION##
+
+This project is deprecated and probably wont live again
+
 ----------
 
 ##**Official GSkate "Website"**##
